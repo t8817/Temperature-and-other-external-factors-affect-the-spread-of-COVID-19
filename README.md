@@ -1,0 +1,2 @@
+# Temperature-and-other-external-factors-affect-the-spread-of-COVID-19
+Study data for temperature and external factors. Performed data shredding and pre-processing, and used Spark MLlib to extract the relationship between temperature, humidity and population with the spreading rate of COVID-19. The deep learning algorithm based on ridge regression model measures the correlation between the environmental factors and the novel COVID-19 spread. Our algorithm predicts the approximate number of covid cases in certain regions of United states.
